@@ -12,7 +12,7 @@ e.g. [0,0,0,0,1] is labeled with 0
 `run_nn.py` has 2 relevent variables
  
 `lr` and `epochs` are self explanatory. 
-`layers` is the structure of the NN. `layers = [3,4,1]` means the input layer has 3 nodes, a hidden layer has 4 nodes, and the output layer has 1 node
+`layers` is the structure of the NN. `layers = [3,4,1]` means the input layer has 3 nodes, a hidden layer has 4 nodes, and the output layer has 1 node.
 
 Example output:
 ---------- ^Handling data...^ ----------
