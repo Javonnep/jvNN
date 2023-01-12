@@ -7,13 +7,15 @@ e.g. [0,1,0,1] is labeled with 1
 e.g. [0,0,0,0,1] is labeled with 0 
 
 
-`data_handler.py` has 2 relevent variables
-`n_per_entry` determines how many 0/1s make up an array
-`n_entries` determines how many total arrays exist
+`data_handler.py` has 2 relevent variables.
+`n_per_entry` determines how many 0/1s make up an array.
+`n_entries` determines how many total arrays exist.
 
 `run_nn.py` has 3 relevent variables
 `lr` and `epochs` are self explanatory. 
 `layers` is the structure of the NN. `layers = [3,4,1]` means the input layer has 3 nodes, a hidden layer has 4 nodes, and the output layer has 1 node.
+
+To use the NN, run `run_nn.py`.
 
 Example output:
 
