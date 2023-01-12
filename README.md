@@ -15,10 +15,10 @@ e.g. [0,0,0,0,1] is labeled with 0
 `layers` is the structure of the NN. `layers = [3,4,1]` means the input layer has 3 nodes, a hidden layer has 4 nodes, and the output layer has 1 node.
 
 Example output:
----------- ^Handling data...^ ----------
-Accuracy: 0.502
+---------- ^Handling data...^ ----------\n
+Accuracy: 0.502\n
 -------------------- ^ACCURACY (UNTRAINED)^ --------------------
-Epoch: 500
+Epoch: 500\n
 Epoch: 1000
 Epoch: 1500
 Epoch: 2000
